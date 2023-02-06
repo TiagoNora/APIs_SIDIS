@@ -19,3 +19,9 @@
 [submodule "Snapshot"]
 	path = Snapshot
 	url = https://github.com/AlvaroTorcato/Snapshot
+[submodule "ProductsC"]
+	path = ProductsC
+	url = https://github.com/AlvaroTorcato/ProductsC
+[submodule "ProductsQ"]
+	path = ProductsQ
+	url = https://github.com/AlvaroTorcato/ProductsQ
