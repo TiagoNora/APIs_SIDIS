@@ -1,3 +1,12 @@
 [submodule "AuthC"]
 	path = AuthC
 	url = https://github.com/AlvaroTorcato/AuthC
+[submodule "AuthQ"]
+	path = AuthQ
+	url = https://github.com/AlvaroTorcato/AuthQ
+[submodule "ReviewC"]
+	path = ReviewC
+	url = https://github.com/AlvaroTorcato/ReviewC
+[submodule "ReviewsQ"]
+	path = ReviewsQ
+	url = https://github.com/AlvaroTorcato/ReviewsQ
