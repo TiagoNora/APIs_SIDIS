@@ -1,0 +1,3 @@
+[submodule "AuthC"]
+	path = AuthC
+	url = https://github.com/AlvaroTorcato/AuthC
