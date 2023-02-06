@@ -10,3 +10,12 @@
 [submodule "ReviewsQ"]
 	path = ReviewsQ
 	url = https://github.com/AlvaroTorcato/ReviewsQ
+[submodule "VoteC"]
+	path = VoteC
+	url = https://github.com/AlvaroTorcato/VoteC
+[submodule "VoteQ"]
+	path = VoteQ
+	url = https://github.com/AlvaroTorcato/VoteQ
+[submodule "Snapshot"]
+	path = Snapshot
+	url = https://github.com/AlvaroTorcato/Snapshot
